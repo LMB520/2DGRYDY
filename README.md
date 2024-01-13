@@ -11,7 +11,7 @@
 ### 原版
 **下载链接：https://aishuo.lanzout.com/ioRol1gf79kj**
 ### 美化版
-[bsgit user="LMB520"]2DGRYDY[/bsgit]
+**下载链接：https://github.com/LMB520/2DGRYDY**
 ## 美化版更新信息
 ### 林墨白美化版v1.0
 1. 去掉原版顶图
