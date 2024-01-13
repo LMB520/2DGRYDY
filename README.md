@@ -35,7 +35,6 @@
 **如果导航超过7个以上了，需要在`./asset/main.js`中按规律增加测速代码，否则无法返回测速时长**
 
 **这里展示一下`lineMs7`代码**
-
 ```JS
 if(url==autourl[7]){
 		$('#lineMs7').html(str+'ms')
