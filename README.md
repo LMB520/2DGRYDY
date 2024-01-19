@@ -4,11 +4,7 @@
 ![Screenshot_2024_0113_171030.png](https://blog.lmb520.cn/usr/uploads/2024/01/698853906.png)
 
 ### 演示网站
-**林墨白的小破站：** www.lmb520.cn
-
-**测试站点集中营：** [test.lmb520.cn](https://test.lmb520.cn)
-
-**2号测试站点(服务器由[鹿小鼠](https://www.lxs.ink/)捐赠)：** [2.test.lmb520.cn](https://2.test.lmb520.cn)
+**2号测试站点：** [2.test.lmb520.cn](https://2.test.lmb520.cn)
 ## 部署网站
 ### 原版
 **下载链接：https://aishuo.lanzout.com/ioRol1gf79kj**
