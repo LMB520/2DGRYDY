@@ -20,7 +20,7 @@
 1. 优化头像位置
 2. 增加樱花飘落特效
 4. 樱花数量在`./asset/xinghua.js`中的第124行修改，
-3. 在`./index.html`中删除134行代码就可以取消樱花飘落特效
+3. 在`./index.html`中删除最后一行行代码`<script src="./asset/yinghua.js"></script>`就可以取消樱花飘落特效
 
 ### 林墨白美化版v1.2
 1. 修复已知Bug
